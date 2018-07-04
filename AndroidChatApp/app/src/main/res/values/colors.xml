@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/colorPrimaryOrange</color>
+    <color name="colorPrimaryDark">@color/colorPrimaryOrange</color>
+    <color name="colorAccent">@color/colorPrimaryOrange</color>
+
+    <color name="colorPrimaryOrange">#f68a1f</color>
+    <color name="colorRangeIndicatorDisabled">#563935</color>
+    <color name="colorPrimaryOrangeOpacity30">#4Df68a1f</color>
+    <color name="colorPrimaryOrangeOpacity60">#99f68a1f</color>
+    <color name="colorPrimaryBlue">#3d5591</color>
+    <color name="colorSecondaryOrange">#f26722</color>
+    <color name="colorPrimaryRed">#cc0000</color>
+    <color name="colorDarkBlue">#0f143c</color>
+    <color name="colorDarkBlueOpacity20">#330f143c</color>
+    <color name="colorLightBlueGrey">#d8e0f2</color>
+    <color name="colorPrimaryBlack">#333333</color>
+    <color name="colorCloudBlue">#aebbd3</color>
+    <color name="colorCloudBlueOpacity30">#70aebbd3</color>
+    <color name="colorWarmGrey">#777777</color>
+    <color name="colorWarmGreyOpacity50">#80777777</color>
+    <color name="colorWarmGreyOpacity20">#33777777</color>
+    <color name="colorMediumGrey">#dddddd</color>
+    <color name="colorMediumGreyOpacity95">#dddddd</color>
+    <color name="colorAlertRed">#ff0000</color>
+    <color name="colorPaleGrey">#f3f6fb</color>
+    <color name="colorPaleGreyDark">#e2eaf8</color>
+    <color name="colorLightGrey">#e2e2e2</color>
+    <color name="colorAlertYellow">#fbaf19</color>
+    <color name="colorAlertGreen">#009900</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorWhiteOpacity30">#4Dffffff</color>
+    <color name="colorWhiteOpacity50">#80ffffff</color>
+    <color name="colorWhiteOpacity20">#33ffffff</color>
+    <color name="colorWhiteOpacity25">#26ffffff</color>
+    <color name="colorButtonBorder">@color/colorWhiteOpacity30</color>
+    <color name="colorFilterButtonText">#FFFFFF</color>
+    <color name="colorFilterListViewDivider">#33dddddd</color>
+    <color name="colorFilterInstantBookDesc">#cfd8ef</color>
+    <color name="colorRipple">#FFFFFFFF</color>
+    <color name="colorContainerBackground">#0DFFFFFF</color>
+
+    <color name="course_screen_bg_color">#f9f9f9</color>
+    <color name="course_screen_header_color">#0f143c</color>
+    <color name="course_screen_desc_color">#3d5591</color>
+    <color name="deals_screen_header_color">#0f143c</color>
+    <color name="deals_screen_desc_color">#3d5591</color>
+    <color name="world_screen_header_color">#0f143c</color>
+    <color name="world_screen_desc_color">#3d5591</color>
+
+    <color name="world_screen_bottom_bar_bg_color">#b3000000</color>
+    <color name="colorLightBlue">#801dbbdd</color>
+    <color name="colorBlue">#803b97ee</color>
+    <color name="colorTransparent">#003d5591</color>
+    <color name="colorTranslucent">#33000000</color>
+
+    <color name="primary_black">#333333</color>
+    <color name="warm_gray">#777777</color>
+    <color name="sort_desc_color">#9eacc9</color>
+    <color name="sort_desc_color_highlighted">#ffffff</color>
+    <color name="fav_btn_text_color">#50FFFFFF</color>
+    <color name="fav_tab_unselected_grey">#50777777</color>
+    <color name="colorRed">#fe3f35</color>
+    <color name="colorLightBlack">#262626</color>
+    <color name="white">#ffffff</color>
+
+    <color name="custom_header_text">#85B100</color>
+    <color name="custom_selected">#A8D324</color>
+    <color name="custom_background">#F0F8DB</color>
+    <color name="custom_background_today">#FF9105</color>
+    <color name="custom_background_disabled">#F0F8DB</color>
+    <color name="custom_text_selected">#FFFFFFFF</color>
+    <color name="custom_text_inactive">#7f778088</color>
+    <color name="transparent">#00000000</color>
+    <color name="dashboard_tab_bg">#e6ffffff</color>
+    <color name="colorLightBlueGreyOpacity30">#70d8e0f2</color>
+    <color name="colorWhiteOpacity90">#E6ffffff</color>
+    <color name="colorWhiteOpacity85">#D8ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlackOpacity90">#E6000000</color>
+    <color name="colorHighlightRed">#d0011b</color>
+    <color name="colorSortDesc">#9facc9</color>
+    <color name="colorWorldBottomBar">#b2000000</color>
+
+    <!-- Rangefinder -->
+    <color name="orangey_yellow">#fbaf19</color>
+    <color name="black_70_percent">#B3000000</color>
+    <color name="black_90_percent">#E6000000</color>
+    <color name="red">#CC0000</color>
+    <color name="dark_indigo">#0f143c</color>
+    <color name="demin_blue">#3d5591</color>
+    <color name="overlay_black">#66000000</color>
+</resources>
